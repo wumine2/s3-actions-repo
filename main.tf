@@ -17,3 +17,4 @@ terraform {
   }
 }
 
+provider "aws" {}
